@@ -1,0 +1,1 @@
+# Blocklist of domains for Pi-Hole
